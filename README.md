@@ -1,13 +1,14 @@
 # INDE577-Data Science and Machine Learning (updating)
 the updating progress will be highlighted in the content
 ## Textbooks (Citations are mainly from these books and the lectures)
-1. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron
+1. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron  
 2. Machine Learning with Python for Everyone, Addison Wesley Data & Analytics Series, 2020 Pearson Education, by Mark E. Fenner  
 
 ## Programming language and tools:
 Python, VS Code, Jupyter Notebooks  
 
 ## Content 
+- **Basic codes in Python**  
 - **Supervised Learning:**
 1. Model Building and Error Analysis
 2. [Linear Regression]()
