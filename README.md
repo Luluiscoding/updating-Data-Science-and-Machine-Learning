@@ -10,13 +10,13 @@ Python, VS Code, Jupyter Notebooks
 ## Content 
 - **Supervised Learning:**
 1. Model Building and Error Analysis
-2. Linear Regression
-3. Gradient Descent
+2. [Linear Regression]()
+3. [Gradient Descent]()
 4. Logistic Regression
 5. Neural Nets
 6. Support Vector Machines
-7. k-Nearest Neighbors
-8. Decision/ Regression Trees
+7. [k-Nearest Neighbors]()
+8. [Decision/ Regression Trees]()
 9. Ensemble Learning  
 - **Unsupervised Learning:**
 1. k-Means Clustering
