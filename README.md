@@ -14,11 +14,11 @@ This repository contains two excellent courses. I knit it in the same repo becau
 Python, VS Code, Jupyter Notebooks  
 
 ## Content 
-- **Basic codes in Python**  
+- **Basic codes / Class / Important Packages**  
 - **Supervised Learning:**
 1. Model Building and Error Analysis
-2. [Linear Regression]()
-3. [Gradient Descent]()
+2. [Gradient Descent]()
+3. [Linear Regression]()
 4. Logistic Regression
 5. Neural Nets
 6. Support Vector Machines
