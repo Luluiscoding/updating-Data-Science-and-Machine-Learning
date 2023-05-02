@@ -1,4 +1,7 @@
-# Data Science and Machine Learning (updating)
+# Data Science and Machine Learning
+
+![](ML.png)
+
 
 This repository contains two excellent courses. I knit it in the same repo because they are both Machine Learning courses.  
 - INDE577-Data Science and Machine Learning. Offered by Rice University. Instructor: Dr. Randy R. Davila.   [Youtube](https://www.youtube.com/c/drrandydavila)
@@ -23,10 +26,11 @@ Python, VS Code, Jupyter Notebooks
 5. [Neural Nets]()
 6. Support Vector Machines
 7. k-Nearest Neighbors
-8. Decision/ Regression Trees
+8. Decision and Regression Trees
 9. Ensemble Learning  
 - **Unsupervised Learning:**
 1. k-Means Clustering
-2. Principle Component Analysis
+- **Recommender System:**
+1. Principle Component Analysis
 - **Reinforcement Learning:**  
 1. Tabular versus Deep Learning Methods
