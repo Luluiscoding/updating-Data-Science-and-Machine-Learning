@@ -17,20 +17,19 @@ This repository contains two excellent courses. I knit it in the same repo becau
 Python, VS Code, Jupyter Notebooks  
 
 ## Content 
-- **Basic codes / Class / Important Packages**  
+- [**Basic codes / Class / Important Packages**](https://github.com/Luluiscoding/updating-Data-Science-and-Machine-Learning/blob/main/Basic%20codes%20in%20Python/Basic%20codes%20in%20Python.ipynb)  
 - **Supervised Learning:**
-1. Model Building and Error Analysis
+1. [Model Building and Error Analysis]()
 2. [Gradient Descent]()
 3. [Linear Regression]()
 4. [Logistic Regression]()
 5. [Neural Nets]()
-6. Support Vector Machines
-7. k-Nearest Neighbors
-8. Decision and Regression Trees
-9. Ensemble Learning  
+6. [Support Vector Machines]()
+7. [k-Nearest Neighbors]()
+8. [Decision and Regression Trees]()
+9. [Ensemble Learning  ]()
 - **Unsupervised Learning:**
-1. k-Means Clustering
+1. [k-Means Clustering]()
 - **Recommender System:**
-1. Principle Component Analysis
-- **Reinforcement Learning:**  
-1. Tabular versus Deep Learning Methods
+1. [Principle Component Analysis]()
+- [**Reinforcement Learning:**]()  
